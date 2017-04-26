@@ -1,0 +1,490 @@
+version,StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q12_1,Q12_2,Q12_3,Q12_4,Q12_5,Q13_1,Q13_2,Q13_3,Q13_4,Q13_5,MTurkCode
+,Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,"Q1. 
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T1","Q1. 
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T2","Q1. 
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T3","Q1. 
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T4","Q1. 
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T5","Q2.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T1","Q2.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T2","Q2.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T3","Q2.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T4","Q2.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T5","Q3.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T1","Q3.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T2","Q3.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T3","Q3.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T4","Q3.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T5","Q4.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T1","Q4.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T2","Q4.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T3","Q4.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T4","Q4.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T5","Q5.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T1","Q5.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T2","Q5.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T3","Q5.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T4","Q5.
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T5","Q6.
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T1","Q6.
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T2","Q6.
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T3","Q6.
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T4","Q6.
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T5","Q7.
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T1","Q7.
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T2","Q7.
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T3","Q7.
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T4","Q7.
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+
+
+Rank the text by the amount of agreement across coders. Agreement increases as more coders use the same label for a specific piece of text. 
+
+ 
+
+Click and drag T1-T5 up or down to rank them from most agreement to least agreement.
+
+Use the rankings: 1 = most agreement, 5 = least agreement. - T5","Q8.
+
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T1","Q8.
+
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T2","Q8.
+
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T3","Q8.
+
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T4","Q8.
+
+
+
+Recall that T1-T5 represent separate pieces of text and A, B, C, D represent different labels assigned to the text.
+
+ 
+How much agreement do you see across various pieces of text?
+
+ 
+
+Slide the button left for less agreement (e.g. users had fewer similar labels) and right for more agreement (e.g. users had more similar labels). - T5",MTurkCode
+,"{""ImportId"":""startDate""}","{""ImportId"":""endDate""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2_2""}","{""ImportId"":""QID2_3""}","{""ImportId"":""QID2_4""}","{""ImportId"":""QID2_5""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID1_5""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID14_2""}","{""ImportId"":""QID14_3""}","{""ImportId"":""QID14_4""}","{""ImportId"":""QID14_5""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID11_4""}","{""ImportId"":""QID11_5""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID10_2""}","{""ImportId"":""QID10_3""}","{""ImportId"":""QID10_4""}","{""ImportId"":""QID10_5""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID16_2""}","{""ImportId"":""QID16_3""}","{""ImportId"":""QID16_4""}","{""ImportId"":""QID16_5""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID17_2""}","{""ImportId"":""QID17_3""}","{""ImportId"":""QID17_4""}","{""ImportId"":""QID17_5""}","{""ImportId"":""MTurkCode""}"
+1,4/20/17 14:00,4/20/17 14:06,IP Address,152.179.80.238,100,356,TRUE,4/20/17 14:06,R_1rOMTWjdIWqC7z9,,,,,41.64109802,-88.44730377,anonymous,5,1,2,4,3,32,100,66,35,71,3,4,5,1,2,71,15,4,93,65,3,5,2,1,4,39,9,71,81,26,3,4,5,2,1,46,37,45,79,100,5088570
+1,4/20/17 14:01,4/20/17 14:06,IP Address,67.1.158.86,100,289,TRUE,4/20/17 14:06,R_12mMuniDmSBjKup,,,,,32.26860046,-111.0021973,anonymous,3,1,5,2,4,43,81,17,70,34,1,3,5,2,4,94,51,20,86,34,1,5,4,2,3,93,20,54,85,64,2,1,3,4,5,91,94,77,69,6,6155024
+1,4/20/17 14:04,4/20/17 14:13,IP Address,50.27.200.236,100,527,TRUE,4/20/17 14:13,R_2ONq7bgCZdJC7b7,,,,,39.79449463,-94.80419922,anonymous,4,1,5,2,3,50,62,39,40,58,1,4,5,2,3,65,49,39,88,57,4,5,2,1,3,37,27,63,82,48,4,3,5,2,1,62,61,51,79,100,5615270
+1,4/20/17 14:06,4/20/17 14:14,IP Address,174.56.160.177,100,493,TRUE,4/20/17 14:14,R_3scSaYFHEkk5Nbk,,,,,31.99710083,-80.96450043,anonymous,4,1,2,5,3,55,100,89,44,70,3,4,5,1,2,62,44,44,91,74,4,5,2,1,3,38,24,65,78,53,3,4,5,2,1,67,48,34,79,100,1150444
+1,4/20/17 14:06,4/20/17 14:18,IP Address,138.68.45.74,100,735,TRUE,4/20/17 14:18,R_1ohD95XM1QrLvMy,,,,,37.35009766,-121.9853973,anonymous,4,1,2,5,3,32,85,71,20,47,3,4,5,1,2,65,55,45,88,80,3,5,2,1,4,58,17,71,82,46,3,4,5,1,2,62,53,32,92,81,7038836
+1,4/20/17 14:10,4/20/17 14:18,IP Address,63.207.238.147,100,489,TRUE,4/20/17 14:18,R_2aPOINvl4GalQbx,,,,,39.74130249,-121.6120987,anonymous,4,1,2,5,3,37,95,80,29,47,1,2,4,5,3,89,69,51,34,60,1,3,5,4,2,95,70,36,56,85,2,1,3,4,5,73,94,66,51,36,2434121
+1,4/20/17 13:57,4/20/17 14:21,IP Address,98.171.175.87,100,1422,TRUE,4/20/17 14:21,R_8nLXcbvzHj6SX3r,,,,,34.41940308,-119.7071991,anonymous,3,4,5,1,2,31,32,42,76,49,1,3,4,2,5,70,51,51,82,59,2,5,3,1,4,72,35,75,74,51,1,2,3,4,5,80,68,66,64,64,5948028
+1,4/20/17 14:17,4/20/17 14:21,IP Address,209.54.29.218,100,236,TRUE,4/20/17 14:21,R_1Lt9SPDUn08XAn7,,,,,42.47259521,-98.56710052,anonymous,4,1,3,5,2,31,100,83,21,69,2,4,5,1,3,80,34,6,100,77,3,5,1,2,4,31,15,76,90,29,3,4,5,2,1,60,65,62,84,100,8757000
+1,4/20/17 14:17,4/20/17 14:24,IP Address,107.143.130.67,100,393,TRUE,4/20/17 14:24,R_3DqJNBRAtPYRcot,,,,,36.11470032,-79.74220276,anonymous,3,1,2,5,4,50,100,81,11,31,2,3,5,1,4,83,57,14,98,32,3,5,1,2,4,30,7,74,55,21,3,4,5,2,1,50,36,16,78,100,8880826
+1,4/20/17 14:22,4/20/17 14:26,IP Address,104.174.223.0,100,279,TRUE,4/20/17 14:26,R_3WbTPknWGXC6sU1,,,,,34.08999634,-117.8903046,anonymous,3,1,2,5,4,28,97,64,5,13,3,4,5,1,2,24,10,3,89,80,3,5,2,1,4,22,6,76,89,17,3,4,5,2,1,34,19,8,79,93,6985342
+1,4/20/17 14:20,4/20/17 14:27,IP Address,68.117.88.33,100,419,TRUE,4/20/17 14:27,R_1jTdiXSVckeUOPu,,,,,43.79820251,-91.12860107,anonymous,2,1,3,5,4,45,100,67,51,51,3,5,4,1,2,54,18,36,100,89,4,5,2,1,3,51,24,84,100,66,3,4,5,2,1,63,42,23,89,100,9711569
+1,4/20/17 14:18,4/20/17 14:28,IP Address,98.113.174.246,100,601,TRUE,4/20/17 14:28,R_eu4tQi98QfHZD7r,,,,,40.61000061,-73.91079712,anonymous,4,1,3,5,2,28,100,69,30,70,2,4,5,1,3,68,49,19,98,71,4,5,1,2,3,20,18,81,66,39,3,4,5,2,1,35,31,24,66,98,1146914
+1,4/20/17 14:19,4/20/17 14:30,IP Address,73.217.38.207,100,668,TRUE,4/20/17 14:30,R_REwXvyvMUP8O52N,,,,,40.45080566,-104.6893997,anonymous,3,1,2,5,4,65,98,83,32,53,3,4,5,1,2,68,54,34,99,85,3,5,1,2,4,61,32,98,81,53,4,3,5,2,1,44,56,26,81,97,9557567
+1,4/20/17 14:27,4/20/17 14:32,IP Address,70.231.45.29,100,307,TRUE,4/20/17 14:32,R_SE0Cd9DWHxuy33r,,,,,29.40370178,-98.72460175,anonymous,4,1,2,5,3,39,100,82,39,58,3,4,5,1,2,67,51,37,95,74,3,5,2,1,4,32,32,71,87,35,3,4,5,2,1,65,63,33,84,100,3634392
+1,4/20/17 14:39,4/20/17 14:43,IP Address,74.250.171.165,100,210,TRUE,4/20/17 14:43,R_3EiHrxgM5OvwdDJ,,,,,35.39019775,-82.37249756,anonymous,3,1,2,4,5,37,95,45,31,45,2,4,5,3,1,47,32,33,83,71,4,5,2,1,3,21,10,78,93,43,4,3,5,2,1,61,52,44,55,88,5021207
+1,4/20/17 14:30,4/20/17 14:43,IP Address,73.79.231.33,100,768,TRUE,4/20/17 14:43,R_YS2rYEfF2oKigbn,,,,,40.44259644,-79.97699738,anonymous,3,1,2,5,4,38,96,63,13,31,3,4,5,1,2,45,24,13,81,72,4,3,2,1,5,13,29,74,80,6,5,3,4,2,1,14,58,66,35,90,4263083
+1,4/20/17 14:42,4/20/17 14:52,IP Address,108.87.185.151,100,554,TRUE,4/20/17 14:52,R_3PuID9M3d6gRXqa,,,,,25.63609314,-80.30449677,anonymous,5,1,2,4,3,8,100,76,27,58,2,4,5,1,3,78,23,0,90,56,3,5,1,2,4,51,11,87,77,26,3,4,5,2,1,48,27,20,64,99,8394712
+1,4/20/17 14:46,4/20/17 14:57,IP Address,108.243.241.47,100,619,TRUE,4/20/17 14:57,R_1psrO1FsaQb3MJ1,,,,,25.81239319,-80.24009705,anonymous,4,1,2,5,3,29,100,80,0,49,3,4,5,1,2,50,20,0,100,73,5,4,2,1,3,0,20,75,100,49,3,4,5,2,1,52,25,0,76,100,5316649
+1,4/20/17 14:56,4/20/17 15:05,IP Address,172.250.38.45,100,545,TRUE,4/20/17 15:05,R_pFN0UYNBaVjG7qF,,,,,34.1006012,-118.3274994,anonymous,4,1,2,5,3,44,100,70,8,51,2,4,5,1,3,51,18,18,87,88,3,5,2,1,4,43,7,74,86,10,3,4,5,2,1,45,14,7,75,90,6376174
+1,4/20/17 15:01,4/20/17 15:17,IP Address,68.63.164.245,100,952,TRUE,4/20/17 15:17,R_1IZcuI6xqa0OSDf,,,,,36.6703949,-81.96720123,anonymous,4,1,2,5,3,37,100,82,20,68,3,4,5,1,2,55,21,8,89,67,3,5,1,2,4,47,6,87,72,32,3,4,5,2,1,63,37,29,81,100,1088768
+1,4/20/17 15:20,4/20/17 15:23,IP Address,198.8.80.209,100,191,TRUE,4/20/17 15:23,R_3JKQgOg50yeXDvY,,,,,34.0493927,-118.2640991,anonymous,4,1,2,3,5,37,82,72,24,20,3,4,5,1,2,32,25,15,85,83,4,5,1,2,3,15,24,76,87,38,2,4,5,3,1,79,31,20,73,89,1164794
+1,4/20/17 15:34,4/20/17 15:45,IP Address,73.190.88.188,100,649,TRUE,4/20/17 15:45,R_1FnBGLNCVZOVvj7,,,,,45.51460266,-122.5991974,anonymous,4,1,2,5,3,22,100,85,19,78,1,4,3,2,5,98,44,22,91,8,5,4,1,2,3,11,13,95,79,40,3,5,4,2,1,39,18,37,80,100,1172170
+1,4/20/17 15:43,4/20/17 16:10,IP Address,67.160.137.62,100,1617,TRUE,4/20/17 16:10,R_2YieHiadEzccA2m,,,,,45.4763031,-122.6408005,anonymous,4,1,2,5,3,49,100,82,31,56,2,4,5,1,3,67,46,32,85,60,3,5,2,1,4,40,17,51,83,32,3,4,5,2,1,47,43,39,73,97,2820712
+1,4/21/17 2:02,4/21/17 2:13,IP Address,24.20.124.0,100,686,TRUE,4/21/17 2:13,R_qVO79zQ3QwfZGlb,,,,,45.55340576,-122.8191986,anonymous,3,1,2,5,4,48,100,66,25,45,3,4,5,1,2,76,42,26,93,86,4,3,2,1,5,28,28,64,73,18,3,5,4,2,1,57,27,52,76,100,8569582
+1,4/21/17 2:05,4/21/17 2:22,IP Address,174.58.15.129,100,1008,TRUE,4/21/17 2:22,R_2uvsb7BS7HWNfjX,,,,,27.3374939,-82.51399994,anonymous,3,1,2,5,4,56,100,81,43,59,3,4,5,1,2,51,51,24,97,84,4,5,2,1,3,34,25,62,83,50,3,4,5,2,1,54,36,29,79,100,8936181
+2,4/20/17 13:56,4/20/17 14:03,IP Address,98.102.88.42,100,404,TRUE,4/20/17 14:03,R_2CHdXyzYUEfpziT,,,,,43.05079651,-88.0381012,anonymous,4,1,2,5,3,29,100,87,19,72,2,4,5,1,3,71,35,5,95,65,4,5,2,1,3,17,6,81,96,54,2,5,3,4,1,70,6,54,20,98,1094725
+2,4/20/17 14:02,4/20/17 14:09,IP Address,85.247.0.84,100,411,TRUE,4/20/17 14:09,R_1eRXu44MPgJwClO,,,,,32.63330078,-16.8999939,anonymous,5,1,2,4,3,8,100,81,14,48,2,4,5,1,3,78,33,2,91,63,3,5,2,1,4,41,0,62,81,25,2,5,3,4,1,85,14,65,32,100,7262157
+2,4/20/17 14:04,4/20/17 14:09,IP Address,72.203.129.158,100,293,TRUE,4/20/17 14:09,R_daFhTr4KlB0Qh8t,,,,,30.35490417,-91.07679749,anonymous,4,1,2,3,5,100,100,100,100,100,1,4,3,2,5,83,76,26,75,51,1,2,3,5,4,75,61,90,35,65,4,3,2,1,5,61,25,84,95,15,3620929
+2,4/20/17 14:05,4/20/17 14:09,IP Address,27.1.101.181,100,245,TRUE,4/20/17 14:09,R_tK6FmxvwdcOFpyp,,,,,37.51109314,126.9743042,anonymous,4,1,2,5,3,15,100,75,29,47,1,4,5,2,3,74,18,4,89,67,5,4,2,1,3,17,20,50,65,13,2,4,5,3,1,45,33,33,62,100,6025440
+2,4/20/17 13:56,4/20/17 14:09,IP Address,68.200.95.124,100,791,TRUE,4/20/17 14:09,R_1Fm3Fml5m4lcRVc,,,,,28.30310059,-82.70480347,anonymous,2,1,4,5,3,43,100,20,20,43,2,3,4,1,5,86,34,16,97,0,3,5,2,1,4,40,0,72,99,40,2,3,5,4,1,74,65,55,60,98,6714216
+2,4/20/17 14:07,4/20/17 14:17,IP Address,73.29.134.72,100,650,TRUE,4/20/17 14:17,R_1F3qCdRdVyGOKRW,,,,,39.74009705,-74.97090149,anonymous,4,1,2,5,3,16,100,83,6,49,3,4,5,1,2,37,19,1,85,66,3,5,2,1,4,57,1,67,88,39,4,3,5,2,1,47,62,40,80,100,2803816
+2,4/20/17 14:12,4/20/17 14:20,IP Address,65.96.111.184,100,488,TRUE,4/20/17 14:20,R_3e2JjjtTfqnaUkZ,,,,,42.38000488,-71.13289642,anonymous,1,5,4,3,2,83,0,8,59,78,1,3,4,2,5,75,63,33,74,19,3,5,2,1,4,56,39,16,73,73,3,4,1,2,5,57,48,75,66,9,7158665
+2,4/20/17 14:11,4/20/17 14:21,IP Address,69.130.122.37,100,550,TRUE,4/20/17 14:21,R_2cdMMCduJCe9wZH,,,,,37.81159973,-113.2240982,anonymous,4,1,2,5,3,100,100,100,100,100,3,4,5,1,2,68,51,12,92,81,4,5,2,1,3,43,17,82,91,63,4,3,5,2,1,41,67,24,81,100,1607640
+2,4/20/17 14:12,4/20/17 14:22,IP Address,99.111.60.205,100,603,TRUE,4/20/17 14:22,R_wWPnKaELsgETu6t,,,,,42.24000549,-87.87169647,anonymous,4,1,2,5,3,45,100,77,13,61,2,4,5,1,3,73,17,0,68,45,4,5,2,1,3,15,0,58,70,7,2,5,4,3,1,42,12,20,26,100,3251119
+2,4/20/17 14:20,4/20/17 14:24,IP Address,73.53.100.228,100,272,TRUE,4/20/17 14:24,R_1laQIELrqAFyI5e,,,,,47.2875061,-122.1094055,anonymous,4,1,2,5,3,44,100,83,35,70,3,4,5,1,2,67,57,44,91,82,5,4,1,2,3,22,35,92,80,67,2,5,4,3,1,82,18,33,48,100,4074608
+2,4/20/17 14:20,4/20/17 14:26,IP Address,198.24.30.133,100,352,TRUE,4/20/17 14:26,R_yqkDzGV0kv1CgNP,,,,,38.87910461,-77.37660217,anonymous,1,5,3,4,2,100,0,51,23,79,3,2,1,4,5,50,75,100,25,0,5,2,3,4,1,0,79,50,22,100,1,3,5,2,4,100,50,0,77,21,9684425
+2,4/20/17 14:17,4/20/17 14:28,IP Address,70.170.124.163,100,676,TRUE,4/20/17 14:28,R_2YX1nb3x5pH6hz6,,,,,36.00970459,-115.1479034,anonymous,4,1,2,5,3,43,96,78,30,63,3,4,5,1,2,63,39,25,84,65,4,5,2,1,3,29,54,61,76,25,3,4,5,2,1,49,47,29,71,87,6697034
+2,4/20/17 14:25,4/20/17 14:32,IP Address,112.207.49.110,100,425,TRUE,4/20/17 14:32,R_8r0F0Vrkfw7uXSh,,,,,14.60420227,120.9822083,anonymous,4,1,3,5,2,100,100,100,100,100,4,1,3,2,5,41,64,55,68,38,1,5,3,4,2,81,12,28,74,35,3,2,5,1,4,46,74,36,73,23,6985342
+2,4/20/17 14:25,4/20/17 14:34,IP Address,23.226.163.196,100,532,TRUE,4/20/17 14:34,R_2ZJlkkzuXy0AJWD,,,,,37.4382019,-84.0510025,anonymous,2,1,3,5,4,84,100,68,68,68,4,1,2,5,3,77,93,93,78,92,1,5,3,2,4,96,75,85,97,87,1,2,4,3,5,97,97,87,87,74,4422575
+2,4/20/17 14:23,4/20/17 14:36,IP Address,108.169.161.66,100,725,TRUE,4/20/17 14:36,R_2YM3oPVfnS8gz1C,,,,,40.08529663,-82.97519684,anonymous,5,1,2,3,4,23,100,28,22,29,1,4,5,3,2,78,35,17,38,68,5,3,1,2,4,11,39,65,58,26,2,3,4,5,1,58,49,38,27,75,9497051
+2,4/20/17 14:26,4/20/17 14:36,IP Address,65.245.178.35,100,651,TRUE,4/20/17 14:36,R_0ptIWOUt9BAbCYF,,,,,38.60890198,-92.5605011,anonymous,4,1,2,5,3,57,100,86,18,70,3,4,5,1,2,68,38,18,91,63,3,5,2,1,4,38,7,61,75,22,1,4,5,3,2,62,45,26,57,61,2546251
+2,4/20/17 14:54,4/20/17 15:02,IP Address,68.59.3.246,100,487,TRUE,4/20/17 15:02,R_Od2lu6mH0tK3ttL,,,,,42.42790222,-83.14360046,anonymous,2,1,3,5,4,66,100,80,7,71,2,4,5,3,1,70,36,3,61,95,3,4,1,2,5,56,31,86,77,24,2,5,4,3,1,67,22,33,58,85,6334136
+2,4/20/17 15:05,4/20/17 15:10,IP Address,136.33.51.78,100,275,TRUE,4/20/17 15:10,R_QcbLLwj8WzCDT8Z,,,,,39.01420593,-94.5951004,anonymous,2,1,3,4,5,72,89,52,25,13,3,2,1,4,5,55,68,90,46,32,1,5,4,3,2,94,21,56,69,88,3,2,4,1,5,53,75,48,91,29,9697566
+2,4/20/17 15:20,4/20/17 15:26,IP Address,108.194.200.239,100,370,TRUE,4/20/17 15:26,R_1IlX2KSBAsr7rQu,,,,,29.54960632,-90.58879852,anonymous,2,1,5,4,3,51,100,42,41,51,1,4,5,2,3,71,57,47,74,55,3,5,2,1,4,59,38,88,80,55,2,4,5,3,1,80,72,66,55,96,7263262
+2,4/20/17 15:28,4/20/17 15:42,IP Address,43.242.225.108,100,852,TRUE,4/20/17 15:42,R_eaZGV13PJnzmIKt,,,,,19.19999695,72.96670532,anonymous,3,1,2,5,4,48,100,67,25,62,3,4,5,1,2,62,38,34,81,64,4,5,2,1,3,55,0,61,82,60,3,4,5,2,1,68,58,57,77,77,5301932
+2,4/20/17 15:47,4/20/17 15:51,IP Address,173.173.36.148,100,281,TRUE,4/20/17 15:51,R_3OoARsHo8ttnLxC,,,,,31.62130737,-97.21009827,anonymous,4,1,2,5,3,37,100,80,20,47,2,4,5,1,3,64,33,12,68,51,5,3,1,4,2,1,42,88,16,76,3,5,2,4,1,49,3,74,20,100,8587614
+2,4/21/17 2:05,4/21/17 2:11,IP Address,68.39.111.2,100,358,TRUE,4/21/17 2:11,R_3k5thvikrPkE0fs,,,,,39.85119629,-86.26509857,anonymous,3,1,2,5,4,70,100,84,6,25,1,4,5,3,2,86,17,37,54,78,4,2,5,1,3,30,75,89,43,14,4,2,5,3,1,26,70,43,11,100,2688994
+2,4/21/17 2:13,4/21/17 2:20,IP Address,183.83.249.79,100,418,TRUE,4/21/17 2:20,R_1DYGDrOqnOY79VQ,,,,,17.44999695,78.5,anonymous,3,1,2,5,4,64,100,74,28,48,3,4,5,2,1,80,80,77,67,54,3,5,4,1,2,84,79,71,55,46,2,3,4,5,1,70,59,57,48,35,3647256
+2,4/21/17 3:00,4/21/17 3:08,IP Address,50.232.33.18,100,479,TRUE,4/21/17 3:08,R_2rvff9IgIL1KGYB,,,,,37.33979797,-77.45860291,anonymous,3,1,4,5,2,7,100,39,11,62,2,4,5,1,3,65,23,6,70,85,2,5,3,1,4,66,16,42,79,35,2,5,3,4,1,63,31,64,41,76,1010421
+2,4/21/17 4:32,4/21/17 4:56,IP Address,67.246.89.139,100,1433,TRUE,4/21/17 4:56,R_BV4vK0WYOWklBst,,,,,43.3480072,-76.34220123,anonymous,3,1,2,5,4,51,98,72,22,42,3,4,5,1,2,54,38,22,83,68,3,5,1,2,4,48,4,87,69,28,2,5,4,3,1,72,22,35,42,90,5920937
+3,,,,,,,,,n_ary_tree_ranking,,,,,,,,4,1,2,5,3,4,1,2,5,3,2.5,4,5,1,2.5,2.5,4,5,1,2.5,3.5,5,2,1,3.5,3.5,5,2,1,3.5,3.5,3.5,5,2,1,3.5,3.5,5,2,1,
+4,,,,,,191,,,absolute_post_ranking,,,,,,,,4,1,2,5,3,4,1,2,5,3,2,5,4,1,3,2,5,4,1,3,4,5,2,1,3,4,5,2,1,3,4,3,5,2,1,4,3,5,2,1,
